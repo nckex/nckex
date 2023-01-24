@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**nckex/nckex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Nicollas Magalhães**, an Experienced **Backend Developer** with a demonstrated history of working in the information technology and services industry.
 
-Here are some ideas to get you started:
+[![Linkedin: Nicollas](https://img.shields.io/badge/-Nicollas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicollasmagalhaes/)](https://www.linkedin.com/in/nicollasmagalhaes/)
+[![GitHub](https://img.shields.io/github/followers/nckex?label=follow&style=social)](https://github.com/nckex)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🔭 I’m currently working as **Sr. Software Engineer**
+- 💬 Ask me about **Web Development**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nckex&layout=compact&theme=dark&hide_border=true)
