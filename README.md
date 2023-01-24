@@ -5,8 +5,10 @@ I'm Nicollas Magalhães, an Experienced Backend Developer with a demonstrated hi
 - 🔭 I’m currently working as **Sr. .NET Software Engineer** at Cielo, a Brazilian financial services company.
 - 🕹 I'm passionate about MMORPG games and developing high-performance algorithms.
 
-[![Linkedin: Nicollas](https://img.shields.io/badge/-Nicollas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicollasmagalhaes/)](https://www.linkedin.com/in/nicollasmagalhaes/)
-[![GitHub](https://img.shields.io/github/followers/nckex?label=follow&style=social)](https://github.com/nckex)
+Follow me on my social networks
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nr.magalhaes)
+[![LinkedIn: Nicollas](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollasmagalhaes/) [![GitHub](https://img.shields.io/github/followers/nckex?label=follow&style=social)](https://github.com/nckex)
 
 ---
 
