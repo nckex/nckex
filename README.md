@@ -2,7 +2,7 @@
 
 I'm Nicollas Magalhães, an Experienced Backend Developer with a demonstrated history of working in the information technology and services industry. 
 
-- 🔭 I’m currently working as **Sr. .NET Software Engineer** at Cielo, a Brazilian financial services company.
+- 🔭 I’m currently working as **.NET Software Engineer**
 - 🕹 I'm passionate about MMORPG games and developing high-performance algorithms.
 
 Follow me on my social networks
